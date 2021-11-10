@@ -47,10 +47,10 @@ sudo apt install gcc-10 g++-10
 sudo apt-get install autoconf automake libtool autopoint
 ```
 
-4. 安装 openssl-devel
+4. 安装 libssl-dev
 
 ```
-sudo apt install -y openssl-devel
+sudo apt install -y libssl-dev
 ```
 
 ## 编译
